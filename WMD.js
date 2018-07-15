@@ -1053,12 +1053,12 @@ p.nominalBounds = new cjs.Rectangle(394.6,-119.2,409.3,644.4);
 	this.movieClip_2 = new lib.WMD();
 	this.movieClip_2.name = "movieClip_2";
 	this.movieClip_2.parent = this;
-	this.movieClip_2.setTransform(102,31.4,0.83,0.83);
+	this.movieClip_2.setTransform(599.7,199.9,1.016,1.016,0,0,0,599.6,203);
 
 	this.timeline.addTween(cjs.Tween.get(this.movieClip_2).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(991.7,232.5,415.3,560.6);
+p.nominalBounds = new cjs.Rectangle(945.1,172.5,508.5,686.4);
 // library properties:
 lib.properties = {
 	id: 'EAE480162DC4B04E8697741130176F68',
